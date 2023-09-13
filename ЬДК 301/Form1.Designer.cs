@@ -44,9 +44,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(22, 253);
+            this.button1.Location = new System.Drawing.Point(12, 209);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(94, 65);
+            this.button1.Size = new System.Drawing.Size(104, 122);
             this.button1.TabIndex = 1;
             this.button1.Text = "Нажми и выведет данные";
             this.button1.UseVisualStyleBackColor = true;
