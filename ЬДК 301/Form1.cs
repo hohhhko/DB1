@@ -28,7 +28,7 @@ namespace ЬДК_301
             dataAdapter.Fill(dt);
             dataGridView1.DataSource = dt;
             dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
-          //  dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
 
             dataAdapter.Fill(ds, "Info");
             dataGridView1.DataSource = ds.Tables[0];
