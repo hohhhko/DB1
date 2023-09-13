@@ -31,8 +31,8 @@ namespace ЬДК_301
         public static string main = "Peapol";
         public static string ID = "ID";
         public static string Name = "Name";
-        public static string Photo = "Photo";
         public static string Surname = "Surname";
+        public static string Photo = "Photo";
 
     }
     static class Table_sqlite_sequence
