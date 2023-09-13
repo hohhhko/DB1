@@ -3,6 +3,7 @@ using System.Data;
 using System.Windows.Forms;
 using System.Data.SQLite;
 
+
 namespace ЬДК_301
 {
     public partial class Form1 : Form
